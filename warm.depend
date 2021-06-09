@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1617948477 source:c:\laba\warm\dblwarm.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<STDLIB.H>
+	<graphics.h>
+	"fileop.h"
+
+1617884276 c:\laba\warm\fileop.h
+	<STDLIB.H>
+
